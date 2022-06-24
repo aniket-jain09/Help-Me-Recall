@@ -1,24 +1,16 @@
-# Flutter UI - Mediacal
+# Help Me Recall
 
-### Video
-
-YouTube : [Watch it on YouTube](https://www.youtube.com/watch?v=lmOag4AH75E)
-
-Bilibili : [Watch it on Bilibili](https://www.bilibili.com/video/BV1nz4y197kq/)
-
-### UI 
-
- - Design by: freepik  [link](https://www.freepik.com/free-vector/medical-booking-online-application_8380951.htm#page=1&query=medical-booking-online-application&position=17)  
+ - The goal of this project is to develop an application that supports the
+   caretaker’s community, and also provides comfort and care to the
+   patients.
 
 
 
-### Mediacal Design UI
+
+### Implementation Screenshots
 
 ![00](00.jpg)
 
-### Mediacal Final UI
-
-<div align=center> <img src = '01.png' width = '250' ><img src = '02.png' width = '250' /><img src = '03.png' width = '250' /></div>
 
 
 
